@@ -1,4 +1,6 @@
-<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="1000" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 
 
 <h1 align="center">Hey there! I'm Mickel Pradeep D 👋</h1>
