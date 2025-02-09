@@ -30,22 +30,6 @@
 
 ---
 
-## 🏆 Certifications:
-🎖 **Java Technology Stack** - Infosys Springboard  
-🎖 **Full-Stack Development** - Velalar College of Engineering & Technology  
-🎖 **Industry 4.0 & IoT** - NPTEL  
-🎖 **C & HTML** - IIT Bombay  
-
----
-
-## 🔥 Projects:
-🖥 **Online Telecom Bill Enquiry System** *(Spring Boot, MySQL, Thymeleaf)*  
-💻 **Hangman Game** *(HTML, CSS, JavaScript)*  
-🎮 **Tic-Tac-Toe Game with Symbol Selection** *(Frontend Development)*  
-🌿 **Medicinal Plant Recognition using Machine Learning** *(Image Processing, AI)*  
-
----
-
 ## 📊 GitHub Stats:
 ![Mickel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickelpradeep&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickelpradeep&layout=compact&theme=radical&hide_border=true)  
