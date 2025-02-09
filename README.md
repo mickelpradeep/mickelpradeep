@@ -1,8 +1,5 @@
 <img align="right" alt="coding" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZyNTlsYXV5cmdvOTkyZ3hqd2wydXFvcW9zdWMxeTNxdzdoenZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-
-
-
 <h1 align="center">Hey there! I'm Mickel Pradeep D 👋</h1>
 <h3 align="center">Aspiring Web & Software Developer | IT Graduate | Passionate About Tech</h3>
 
