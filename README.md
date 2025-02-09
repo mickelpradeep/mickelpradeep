@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZwZDdka3h2MXFlcmxmNDhoZmRubnhnbnc5bGRrYWQ0NTN2cjhjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZyNTlsYXV5cmdvOTkyZ3hqd2wydXFvcW9zdWMxeTNxdzdoenZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 
@@ -45,3 +45,7 @@
 
 ## 🚀 Let's Connect!
 💬 Open to collaborations and discussions on **Web Development, Java, and Databases!** Feel free to reach out. 🚀  
+
+---
+
+<img align="right" alt="coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZwZDdka3h2MXFlcmxmNDhoZmRubnhnbnc5bGRrYWQ0NTN2cjhjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
