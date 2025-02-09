@@ -8,7 +8,7 @@
 🎓 **B.Tech in Information Technology** - Velalar College of Engineering and Technology (2021-2025)  
 💡 Passionate about **Web Development, Java, and Software Engineering**  
 🌱 Currently learning **Spring Boot, Full-Stack Development, and Databases**  
-👨‍💻 Strong in **C, Java, and Frontend Technologies**  
+👨‍💻 Strong in **Java, C, and Frontend Technologies**  
 ⚡ Fun Fact: **I love coding and gaming! 🎮**  
 
 ---
