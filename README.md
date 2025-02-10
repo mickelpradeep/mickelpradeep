@@ -46,3 +46,6 @@
 ---
 
 <img align="right" alt="coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZwZDdka3h2MXFlcmxmNDhoZmRubnhnbnc5bGRrYWQ0NTN2cjhjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavithrakamalesan)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-k142004)  
+
